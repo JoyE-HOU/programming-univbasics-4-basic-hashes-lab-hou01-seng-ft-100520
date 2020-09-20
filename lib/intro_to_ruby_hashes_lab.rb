@@ -12,7 +12,5 @@ end
 
 
 def id_hash_generator(number)
-  {id: 5}
-  id_hash_generator
-  id_hash_generator[:id] = 451
+  {id: number}
 end
